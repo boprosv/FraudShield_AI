@@ -47,3 +47,29 @@ SHAP explains the reasoning behind each flag.
 GPT-4 provides a natural language summary of why the transaction may be suspicious.
 ```
 ![alt image](https://github.com/boprosv/FraudShield_AI/blob/main/Screenshot%202025-06-23%20104302.png?raw=true)
+
+```text
+ Customization & Real-Time Integration
+
+FraudShield AI is built to be modular and extensible, allowing for easy adaptation to various financial environments and fraud detection use cases.
+
+✅ Customization Highlights
+
+Model Retraining: Use your own labeled dataset to retrain the XGBoost model via fraud_model.py
+
+Feature Expansion: Add custom features like geolocation, device type, or transaction frequency
+
+Threshold Tuning: Adjust fraud detection probability thresholds to match business risk levels
+
+⚡ Real-Time Detection Use Case
+
+FraudShield AI can be adapted for real-time monitoring by:
+
+Deploying as a FastAPI microservice with prediction endpoints
+
+Integrating with Kafka or serverless platforms (e.g., AWS Lambda)
+
+Connecting to internal alerting tools for instant response on flagged transactions
+
+The lightweight and fast inference capability of the XGBoost model makes it ideal for live production systems.
+```
