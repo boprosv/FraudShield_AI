@@ -46,4 +46,4 @@ SHAP explains the reasoning behind each flag.
 
 GPT-4 provides a natural language summary of why the transaction may be suspicious.
 ```
-![alt image]()
+![alt image](https://github.com/boprosv/FraudShield_AI/blob/main/Screenshot%202025-06-23%20104302.png?raw=true)
