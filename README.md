@@ -20,7 +20,8 @@ fraudshield_ai/
 ![alt image](https://raw.githubusercontent.com/boprosv/FraudShield_AI/8a77d13377036e184c241d463c7d94a60ef94566/Screenshot%202025-06-23%20104211.png)
 
 ```text
- Features
+Features :
+
 XGBoost + Optuna: Hyperparameter tuning for optimal fraud detection performance.
 
 SHAP Explainability: Model transparency with top contributing features.
