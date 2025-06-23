@@ -32,3 +32,17 @@ Streamlit Interface: Clean and fast visual UI for business users.
 
 Secure: API keys and local data are not exposed or shared.
 ```
+![alt image]()
+```text
+How It Works:
+
+User uploads a CSV file with transaction data.
+
+The backend model calculates the probability of fraud.
+
+Top flagged transactions are highlighted with a confidence score.
+
+SHAP explains the reasoning behind each flag.
+
+GPT-4 provides a natural language summary of why the transaction may be suspicious.
+```
