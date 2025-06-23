@@ -18,3 +18,16 @@ fraudshield_ai/
 ```
 
 ![alt image](https://raw.githubusercontent.com/boprosv/FraudShield_AI/8a77d13377036e184c241d463c7d94a60ef94566/Screenshot%202025-06-23%20104211.png)
+
+```text
+ Features
+XGBoost + Optuna: Hyperparameter tuning for optimal fraud detection performance.
+
+SHAP Explainability: Model transparency with top contributing features.
+
+GPT-4 Agent: Fraud expert summaries in plain English for every flagged transaction.
+
+Streamlit Interface: Clean and fast visual UI for business users.
+
+Secure: API keys and local data are not exposed or shared.
+```
