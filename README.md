@@ -32,7 +32,7 @@ Streamlit Interface: Clean and fast visual UI for business users.
 
 Secure: API keys and local data are not exposed or shared.
 ```
-![alt image]()
+![alt image](https://raw.githubusercontent.com/boprosv/FraudShield_AI/dd36721f9bbee9657ea48407f0bae41a4485245a/Screenshot%202025-06-23%20104243.png)
 ```text
 How It Works:
 
