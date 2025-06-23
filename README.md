@@ -16,4 +16,4 @@ fraudshield_ai/
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
 
-![alt image]()
+![alt image](https://raw.githubusercontent.com/boprosv/FraudShield_AI/8a77d13377036e184c241d463c7d94a60ef94566/Screenshot%202025-06-23%20104211.png)
