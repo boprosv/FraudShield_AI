@@ -74,4 +74,4 @@ Connecting to internal alerting tools for instant response on flagged transactio
 The lightweight and fast inference capability of the XGBoost model makes it ideal for live production systems.
 ```
 
-This project uses a cleaned and anonymized dataset from [Kaggle's Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud).
+This project I used a cleaned and anonymized dataset from [Kaggle's Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud).
